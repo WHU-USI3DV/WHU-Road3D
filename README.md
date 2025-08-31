@@ -141,7 +141,6 @@ The detailed experimental configurations and code for each method are available 
    
 </p>
 
-![alt text](image.png)
 
 **Symbolic road markings**:
 <p align="center">
