@@ -91,7 +91,7 @@ The core component of WHU-Road3D is detailed 3D vectorized annotations of the ro
 **Crosswalks** are often found at intersections to assist pedestrians to safely cross the road, where pedestrians usually have priority over vehicular traffic. We annotate crosswalks whose appearances are black and white stripes (resembling a zebra). Specifically, we offer three annotation formats for crosswalks, including whole polygon patches, sets of stripes, and bunches of centerlines of stripes, as shown in Figure \ref{fig: crosswalk annotation}.
 
 <p align="center">
-  <img src="./media/crosswalk-annotations.png" width="85%">  
+  <img src="./media/crosswalk-annotations.png" width="60%">  
    <figcaption>Figure 4: Three types of crosswalk annotations.</figcaption> 
 </p>
 
@@ -102,7 +102,7 @@ The core component of WHU-Road3D is detailed 3D vectorized annotations of the ro
 In the WHU-Road3D dataset, direction symbols are annotated using two forms of vectorized representations: oriented bounding boxes and outline contours characterized by a predetermined number of vertices. For instance, seven ordered vertices define the forward arrow compactly. The 3D outlines are annotated for the 10 kinds of interested direction symbols, as shown in Fig. \ref{fig: road marking annotations}.
 
 <p align="center">
-  <img src="./media/10-Direction-symbols-annotation.png" width="85%">  
+  <img src="./media/10-Direction-symbols-annotation.png" width="70%">  
    <figcaption>Figure 5: Ten direction symbols’ annotations.</figcaption> 
 </p>
 
